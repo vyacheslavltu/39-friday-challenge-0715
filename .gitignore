@@ -1,0 +1,4 @@
+/local_only
+/node_modules
+/.vscode
+.DS_Store
